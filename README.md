@@ -53,7 +53,7 @@ Essas ferramentas servirão para coletar dados de contas no instagram, tais como
 
 # Como coletar latitude e longitude de endereços
 
-⚠️ Pára coletar latitude e longitude de endereços, é necessario que a pessoa tenha marcado algum local em alguma postagem.
+⚠️ Pára coletar latitude e longitude de endereços, é necessario que a pessoa tenha marcado um local em alguma postagem.
 
 • Metodo indisponivel (Atualizo aqui quando estiver disponível).
 
