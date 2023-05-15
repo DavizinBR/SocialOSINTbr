@@ -1,10 +1,10 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=ESTADO&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-# Detalhes do projeto
+# ℹ️ Detalhes do projeto
 
 Essas ferramentas servirão para coletar dados de contas no instagram, tais como: Endereços, E-mails, IDS únicos, análise de engajamento, entre outros.
 
-# Ferramentas web:
+# :hammer: Ferramentas web:
 
 ### Coletar ID de uma conta 
 
