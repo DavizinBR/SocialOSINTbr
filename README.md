@@ -34,7 +34,7 @@ Essas ferramentas servirão para coletar dados de contas do instagram, tais como
 
 • https://www.instafollowers.co/download-instagram-stories
 
-# Extensões do navegador
+# Extensões de navegador
 
 ### Extensão para fazer o download de comentarios de postagens
 
