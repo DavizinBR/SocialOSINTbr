@@ -32,6 +32,26 @@ Essas ferramentas servirão para coletar dados de contas no instagram, tais como
 
 • https://www.instafollowers.co/download-instagram-stories
 
+# Extensões do navegador
+
+### Extensão para fazer o download de comentarios de postagens
+
+• https://chrome.google.com/webstore/detail/insc-export-instagram-com/hdfhpnjnlgekgjmniifdieiflhfdkmlk
+
+### Extensão para capturar e-mails de contas no instagram
+
+• https://chrome.google.com/webstore/detail/inse-email-exporter-of-in/hboikjnbkhkjmllgdcflmbcojbpklcca
+
+### Extensão para fazer o download de likes em postagens
+
+• https://chrome.google.com/webstore/detail/insl-export-instagram-lik/iiblfonkagipdojommmomopjldpibdbb
+
+### Extensão para fazer o download de seguidores de uma conta
+
+• https://chrome.google.com/webstore/detail/insfo-follower-export-too/bckleejkdhlponanidmjfjdigpahlado
+
+
+
 # Google Dorks
 
 ### Verificar se alguma postagem privada está pública no google com google dorks
