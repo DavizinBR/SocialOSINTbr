@@ -4,7 +4,7 @@ Essas ferramentas servirão para coletar dados de contas no instagram, tais como
 
 # Ferramentas web:
 
-### Capturar ID de uma conta 
+### Coletar ID de uma conta 
 
 • https://www.instafollowers.co/find-instagram-user-id#:~:text=On%20the%20main%20page%2C%20click,can%20change%20your%20user%20ID
 
@@ -50,6 +50,12 @@ Essas ferramentas servirão para coletar dados de contas no instagram, tais como
 
 • https://chrome.google.com/webstore/detail/insfo-follower-export-too/bckleejkdhlponanidmjfjdigpahlado
 
+
+# Como coletar endereços 
+
+⚠️ Pára coletar endereços, é necessario que a pessoa tenha marcado algum local em alguma postagem.
+
+• Vá no feed da conta - 
 
 
 # Google Dorks
