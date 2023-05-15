@@ -1,4 +1,4 @@
-https://img.shields.io/badge/Estado%3A-Em%20desenvolvimento-blue
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=ESTADO&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 # Detalhes do projeto
 
