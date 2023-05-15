@@ -40,7 +40,7 @@ Essas ferramentas servirão para coletar dados de contas do instagram, tais como
 
 • https://chrome.google.com/webstore/detail/insc-export-instagram-com/hdfhpnjnlgekgjmniifdieiflhfdkmlk
 
-### Extensão para capturar e-mails de contas no instagram
+### Extensão para coletar e-mails de contas no instagram
 
 • https://chrome.google.com/webstore/detail/inse-email-exporter-of-in/hboikjnbkhkjmllgdcflmbcojbpklcca
 
