@@ -81,5 +81,4 @@ Essas ferramentas e metodos servirão para coletar dados de contas do instagram,
 
 # Autor
 
-| [<img src="https://avatars.githubusercontent.com/u/133701068?v=4" width=115><br><sub>David</sub>](https://github.com/DavizinBR) | | |
-| :---: | :---: | :---: |
+[<img src="https://avatars.githubusercontent.com/u/133701068?v=4" width=115><br><sub></sub>](https://github.com/DavizinBR)
