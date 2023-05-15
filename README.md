@@ -60,7 +60,7 @@ Essas ferramentas servirão para coletar dados de contas do instagram, tais como
 • Metodo indisponivel (Atualizo aqui quando estiver disponível).
 
 
-# 🗺️ Google Dorks
+# ♟️ Google Dorks
 
 ### Verificar se alguma postagem privada está pública no google com google dorks
 
