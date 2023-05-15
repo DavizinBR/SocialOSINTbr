@@ -53,7 +53,7 @@ Essas ferramentas servirão para coletar dados de contas do instagram, tais como
 • https://chrome.google.com/webstore/detail/insfo-follower-export-too/bckleejkdhlponanidmjfjdigpahlado
 
 
-# Como coletar latitude e longitude de endereços
+# 📍 Como coletar latitude e longitude de endereços
 
 ⚠️ Pára coletar latitude e longitude de endereços, é necessario que a pessoa tenha marcado um local em alguma postagem.
 
