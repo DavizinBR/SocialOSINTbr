@@ -52,6 +52,9 @@ Essas ferramentas servirão para coletar dados de contas do instagram, tais como
 
 • https://chrome.google.com/webstore/detail/insfo-follower-export-too/bckleejkdhlponanidmjfjdigpahlado
 
+### Extensão para desativar visualização de mensagens no direct e visualizar story em modo ghost
+
+• https://chrome.google.com/webstore/detail/inssist-web-client-for-in/bcocdbombenodlegijagbhdjbifpiijp?hl=pt-BR
 
 # 📍 Investigar endereços
 
