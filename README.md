@@ -2,7 +2,7 @@
 
 # ℹ️ Detalhes do projeto
 
-Essas ferramentas servirão para coletar dados de contas no instagram, tais como: Endereços, E-mails, IDS únicos, análise de engajamento, entre outros.
+Essas ferramentas servirão para coletar dados de contas do instagram, tais como: Endereços, E-mails, IDS únicos, análise de engajamento, entre outros.
 
 # :hammer: Ferramentas web:
 
