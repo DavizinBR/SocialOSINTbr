@@ -77,3 +77,9 @@ Essas ferramentas e metodos servirão para coletar dados de contas do instagram,
 ### Verificar se alguma postagem privada está pública no twitter com google dorks
 
 • site:twitter.com "instagram.com/p/" "usuario"
+
+
+# Autor
+
+| [<img src="https://avatars.githubusercontent.com/u/133701068?v=4" width=115><br><sub>David</sub>](https://github.com/DavizinBR) |  [<img src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) |  [<img src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
+| :---: | :---: | :---: |
