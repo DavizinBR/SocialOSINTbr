@@ -4,7 +4,7 @@
 
 Essas ferramentas servirão para coletar dados de contas do instagram, tais como: Endereços, E-mails, IDS únicos, análise de engajamento, entre outros.
 
-# :hammer: Ferramentas web:
+# ⚒️ Ferramentas web:
 
 ### Coletar ID de uma conta 
 
@@ -34,7 +34,7 @@ Essas ferramentas servirão para coletar dados de contas do instagram, tais como
 
 • https://www.instafollowers.co/download-instagram-stories
 
-# Extensões de navegador
+# 📂 Extensões de navegador
 
 ### Extensão para fazer o download de comentarios de postagens
 
