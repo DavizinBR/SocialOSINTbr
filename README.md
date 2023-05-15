@@ -1,4 +1,4 @@
-# Para que serve ?
+# Detalhes do projeto
 
 Essas ferramentas servirão para coletar dados de contas no instagram, tais como: Endereços, E-mails, IDS únicos, análise de engajamento, entre outros.
 
