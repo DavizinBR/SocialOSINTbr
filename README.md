@@ -1,4 +1,6 @@
-![285e08ec51f0479dae8307c87ff30db9](https://github.com/DavizinBR/InstaOSINT/assets/133701068/e677ebb6-8f25-4e9b-b7fd-3a56f6021e41) # Detalhes do projeto
+[https://img.shields.io/badge/teste-teste-blue](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
+
+# Detalhes do projeto
 
 Essas ferramentas servirão para coletar dados de contas no instagram, tais como: Endereços, E-mails, IDS únicos, análise de engajamento, entre outros.
 
