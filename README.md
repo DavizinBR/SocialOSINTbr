@@ -61,6 +61,9 @@ Essas ferramentas servirão para coletar dados de contas do instagram, tais como
 
 • Metodo indisponivel (Atualizo aqui quando estiver disponível).
 
+### Descobrir locais frequentados em uma localização
+
+• https://instahunt.co/
 
 # ♟️ Google Dorks
 
