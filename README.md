@@ -16,6 +16,7 @@ Essas ferramentas e metodos servirão para coletar dados de contas do instagram,
 
 ### Fazer uma análise geral de engajamento da conta
 
+• https://inflact.com/tools/profile-analyzer/
 • https://analisa.io/
 
 ### Fazer download da foto de perfil
