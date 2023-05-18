@@ -35,6 +35,10 @@ Essas ferramentas e metodos servirão para coletar dados de contas do instagram,
 
 • https://www.instafollowers.co/download-instagram-stories
 
+### Encontrar perfis com filtros avançados
+
+• https://inflact.com/tools/instagram-search/
+
 # 📂 Extensões de navegador
 
 ### Extensão para fazer o download de comentarios de postagens
