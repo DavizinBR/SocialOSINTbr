@@ -2,7 +2,11 @@
 
 # ℹ️ Detalhes do projeto
 
-Essas ferramentas e metodos servirão para coletar dados de contas do instagram, tais como: Endereços, E-mails, IDS únicos, análise de engajamento, entre outros.
+Essas ferramentas e metodos servirão para coletar dados de contas nas principais redes sociais tais como: localizações, E-mails, IDS únicos, análise de engajamento, entre outros.
+
+### OSINT no instagram
+
+![download (1)](https://github.com/DavizinBR/SocialOSINTbr/assets/133701068/b03cc689-ece2-4163-8ad8-3d7d442dae0a)
 
 # ⚒️ Ferramentas web:
 
