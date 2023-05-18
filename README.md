@@ -85,6 +85,6 @@ Essas ferramentas e metodos servirão para coletar dados de contas do instagram,
 • site:twitter.com "instagram.com/p/" "usuario"
 
 
-# Contribuintes
+# Autor
 
 [<img src="https://avatars.githubusercontent.com/u/133701068?v=4" width=90><br><sub></sub>](https://github.com/DavizinBR)
