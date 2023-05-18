@@ -18,8 +18,6 @@ Essas ferramentas e metodos servirão para coletar dados de contas do instagram,
 
 • https://inflact.com/tools/profile-analyzer/
 
-• https://analisa.io/
-
 ### Fazer download da foto de perfil
 
 • https://pokoinsta.com/download-profile-picture-instagram
