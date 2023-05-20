@@ -1,5 +1,7 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=ESTADO&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
+![social](https://github.com/DavizinBR/SocialOSINTbr/assets/133701068/407c535e-c202-41ba-94f9-7ba2d10e5e99)
+
 # ℹ️ Detalhes do projeto
 
 Essas ferramentas e metodos servirão para coletar dados de contas nas principais redes sociais tais como: localizações, E-mails, IDS únicos, análise de engajamento, entre outros.
