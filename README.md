@@ -36,23 +36,13 @@ Essas ferramentas e metodos servirão para coletar dados de contas nas principai
 
 * [Extensão para fazer o download de comentarios de postagens](https://chrome.google.com/webstore/detail/insc-export-instagram-com/hdfhpnjnlgekgjmniifdieiflhfdkmlk)
 
-• https://chrome.google.com/webstore/detail/insc-export-instagram-com/hdfhpnjnlgekgjmniifdieiflhfdkmlk
+* [Extensão para coletar e-mails de contas no instagram](https://chrome.google.com/webstore/detail/inse-email-exporter-of-in/hboikjnbkhkjmllgdcflmbcojbpklcca)
 
-### Extensão para coletar e-mails de contas no instagram
+* [Extensão para fazer o download de likes em postagens](https://chrome.google.com/webstore/detail/insl-export-instagram-lik/iiblfonkagipdojommmomopjldpibdbb)
 
-• https://chrome.google.com/webstore/detail/inse-email-exporter-of-in/hboikjnbkhkjmllgdcflmbcojbpklcca
+* [Extensão para fazer o download de seguidores de uma conta](https://chrome.google.com/webstore/detail/insfo-follower-export-too/bckleejkdhlponanidmjfjdigpahlado)
 
-### Extensão para fazer o download de likes em postagens
-
-• https://chrome.google.com/webstore/detail/insl-export-instagram-lik/iiblfonkagipdojommmomopjldpibdbb
-
-### Extensão para fazer o download de seguidores de uma conta
-
-• https://chrome.google.com/webstore/detail/insfo-follower-export-too/bckleejkdhlponanidmjfjdigpahlado
-
-### Extensão para desativar visualização de mensagens no direct e visualizar story em modo ghost
-
-• https://chrome.google.com/webstore/detail/inssist-web-client-for-in/bcocdbombenodlegijagbhdjbifpiijp?hl=pt-BR
+* [Extensão para desativar visualização de mensagens no direct e visualizar story em modo ghost](https://chrome.google.com/webstore/detail/inssist-web-client-for-in/bcocdbombenodlegijagbhdjbifpiijp?hl=pt-BR)
 
 # 📍 Investigar endereços
 
