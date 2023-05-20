@@ -8,7 +8,7 @@ Essas ferramentas e metodos servirão para coletar dados de contas nas principai
 
 # Redes sociais
 
-* [Instagram](www.google.com)
+* [Instagram](https://www.google.com/)
 
 ### OSINT no instagram
 
