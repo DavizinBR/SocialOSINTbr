@@ -16,7 +16,7 @@ Essas ferramentas e metodos servirão para coletar dados de contas nas principai
 
 # ⚒️ Ferramentas web:
 
-###* [COLETAR ID DE UMA CONTA]([#osint-no-instagram](https://www.instafollowers.co/find-instagram-user-id#:~:text=On%20the%20main%20page%2C%20click,can%20change%20your%20user%20ID))
+* [COLETAR ID DE UMA CONTA]([#osint-no-instagram](https://www.instafollowers.co/find-instagram-user-id#:~:text=On%20the%20main%20page%2C%20click,can%20change%20your%20user%20ID))
 
 ### Converter ID para nome de úsuario
 
