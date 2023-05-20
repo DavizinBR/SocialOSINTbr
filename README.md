@@ -8,7 +8,7 @@ Essas ferramentas e metodos servirão para coletar dados de contas nas principai
 
 # Redes sociais
 
-* [Instagram](https://www.google.com/)
+* [Instagram](#osint-no-instagram)
 
 ### OSINT no instagram
 
@@ -16,9 +16,7 @@ Essas ferramentas e metodos servirão para coletar dados de contas nas principai
 
 # ⚒️ Ferramentas web:
 
-### Coletar ID de uma conta 
-
-• https://www.instafollowers.co/find-instagram-user-id#:~:text=On%20the%20main%20page%2C%20click,can%20change%20your%20user%20ID
+###* [COLETAR ID DE UMA CONTA]([#osint-no-instagram](https://www.instafollowers.co/find-instagram-user-id#:~:text=On%20the%20main%20page%2C%20click,can%20change%20your%20user%20ID))
 
 ### Converter ID para nome de úsuario
 
