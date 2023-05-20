@@ -20,25 +20,15 @@ Essas ferramentas e metodos servirão para coletar dados de contas nas principai
 
 * [CONVERTER ID PARA NOME DE USUÁRIO](https://commentpicker.com/instagram-username.php)
 
-### Fazer uma análise geral de engajamento da conta
+* [Fazer uma análise geral de engajamento da conta](https://inflact.com/tools/profile-analyzer/)
 
-• https://inflact.com/tools/profile-analyzer/
+* [Fazer download da foto de perfil](https://pokoinsta.com/download-profile-picture-instagram)
 
-### Fazer download da foto de perfil
+* [Fazer download das fotos do feed](https://saveinsta.app/en1)
 
-• https://pokoinsta.com/download-profile-picture-instagram
+* [Fazer download dos destaques](https://imginn.com/)
 
-### Fazer download das fotos do feed
-
-• https://saveinsta.app/en1
-
-### Fazer download dos destaques
-
-• https://imginn.com/
-
-### Visualizar story sem conta
-
-• https://www.instafollowers.co/download-instagram-stories
+* [Visualizar story sem conta](https://www.instafollowers.co/download-instagram-stories)
 
 ### Encontrar perfis com filtros avançados
 
