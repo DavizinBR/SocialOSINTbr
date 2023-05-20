@@ -44,6 +44,10 @@ Essas ferramentas e metodos servirão para coletar dados de contas nas principai
 
 * [Extensão para desativar visualização de mensagens no direct e visualizar story em modo ghost](https://chrome.google.com/webstore/detail/inssist-web-client-for-in/bcocdbombenodlegijagbhdjbifpiijp?hl=pt-BR)
 
+# ♟️ Google Dorks
+
+* [Ferramenta de busca com google dorks no instagram](https://www.aware-online.com/osint-tools/instagram-search-tool/)
+
 # 📍 Investigar endereços
 
 * [Descobrir locais frequentados em uma localização](https://instahunt.co/)
@@ -53,17 +57,6 @@ Essas ferramentas e metodos servirão para coletar dados de contas nas principai
 ⚠️ Pára coletar latitude e longitude de endereços, é necessario que a pessoa tenha marcado um local em alguma postagem.
 
 • Metodo indisponivel (Atualizo aqui quando estiver disponível).
-
-# ♟️ Google Dorks
-
-### Verificar se alguma postagem privada está pública no google com google dorks
-
-• "instagram.com/p/" "usuario"
-
-### Verificar se alguma postagem privada está pública no twitter com google dorks
-
-• site:twitter.com "instagram.com/p/" "usuario"
-
 
 # Autor
 
