@@ -18,9 +18,7 @@ Essas ferramentas e metodos servirão para coletar dados de contas nas principai
 
 * [COLETAR ID DE UMA CONTA](https://www.instafollowers.co/find-instagram-user-id#:~:text=On%20the%20main%20page%2C%20click,can%20change%20your%20user%20ID)
 
-### Converter ID para nome de úsuario
-
-• https://commentpicker.com/instagram-username.php
+* [CONVERTER ID PARA NOME DE USUÁRIO](https://commentpicker.com/instagram-username.php)
 
 ### Fazer uma análise geral de engajamento da conta
 
