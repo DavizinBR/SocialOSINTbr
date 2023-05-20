@@ -34,7 +34,7 @@ Essas ferramentas e metodos servirão para coletar dados de contas nas principai
 
 # 📂 Extensões de navegador
 
-### Extensão para fazer o download de comentarios de postagens
+* [Extensão para fazer o download de comentarios de postagens](https://chrome.google.com/webstore/detail/insc-export-instagram-com/hdfhpnjnlgekgjmniifdieiflhfdkmlk)
 
 • https://chrome.google.com/webstore/detail/insc-export-instagram-com/hdfhpnjnlgekgjmniifdieiflhfdkmlk
 
