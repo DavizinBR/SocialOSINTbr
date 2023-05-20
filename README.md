@@ -30,9 +30,7 @@ Essas ferramentas e metodos servirão para coletar dados de contas nas principai
 
 * [Visualizar story sem conta](https://www.instafollowers.co/download-instagram-stories)
 
-### Encontrar perfis com filtros avançados
-
-• https://inflact.com/tools/instagram-search/
+* [Encontrar perfis com filtros avançados](https://inflact.com/tools/instagram-search/)
 
 # 📂 Extensões de navegador
 
