@@ -52,12 +52,6 @@ Essas ferramentas e metodos servirão para coletar dados de contas nas principai
 
 * [Descobrir locais frequentados em uma localização](https://instahunt.co/)
 
-### Coletar latitude e longitude de uma postagem
-
-⚠️ Pára coletar latitude e longitude de endereços, é necessario que a pessoa tenha marcado um local em alguma postagem.
-
-• Metodo indisponivel (Atualizo aqui quando estiver disponível).
-
 # Autor
 
 [<img src="https://avatars.githubusercontent.com/u/133701068?v=4" width=90><br><sub></sub>](https://github.com/DavizinBR)
