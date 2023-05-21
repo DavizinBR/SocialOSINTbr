@@ -16,9 +16,9 @@ Essas ferramentas e metodos servirão para coletar dados de contas nas principai
 
 # ⚒️ Ferramentas web:
 
-* [COLETAR ID DE UMA CONTA](https://www.instafollowers.co/find-instagram-user-id#:~:text=On%20the%20main%20page%2C%20click,can%20change%20your%20user%20ID)
+* [Coletar id de uma conta](https://www.instafollowers.co/find-instagram-user-id#:~:text=On%20the%20main%20page%2C%20click,can%20change%20your%20user%20ID)
 
-* [CONVERTER ID PARA NOME DE USUÁRIO](https://commentpicker.com/instagram-username.php)
+* [Converter id para nome de usuário](https://commentpicker.com/instagram-username.php)
 
 * [Fazer uma análise geral de engajamento da conta](https://inflact.com/tools/profile-analyzer/)
 
