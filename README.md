@@ -31,7 +31,7 @@ Essas ferramentas servirão para coletar dados de contas nas principais redes so
 
 * [Encontrar perfis com filtros avançados](https://inflact.com/tools/instagram-search/)
 
-* [Ferramenta de busca com google dorks no instagram](https://www.aware-online.com/osint-tools/instagram-search-tool/)
+* [Ferramenta de busca com google dorks](https://www.aware-online.com/osint-tools/instagram-search-tool/)
 
 # 📂 Extensões de navegador
 
