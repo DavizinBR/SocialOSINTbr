@@ -10,7 +10,6 @@ Essas ferramentas e metodos servirão para coletar dados de contas nas principai
 
 [![Instagram Badge](https://img.shields.io/badge/-instagram-000?style=flat-square&logo=Instagram&logoColor=red&link=LINK_GIT)](#osint-no-instagram)
 
-### OSINT no instagram
 
 ![download (1)](https://github.com/DavizinBR/SocialOSINTbr/assets/133701068/b03cc689-ece2-4163-8ad8-3d7d442dae0a)
 
