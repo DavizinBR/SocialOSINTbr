@@ -2,15 +2,13 @@
 
 ![social](https://github.com/DavizinBR/SocialOSINTbr/assets/133701068/407c535e-c202-41ba-94f9-7ba2d10e5e99)
 
-[![Github Badge](https://img.shields.io/badge/-instagram-000?style=flat-square&logo=Instagram&logoColor=red&link=LINK_GIT)](#osint-no-instagram)
-
 # ℹ️ Detalhes do projeto
 
 Essas ferramentas e metodos servirão para coletar dados de contas nas principais redes sociais tais como: localizações, E-mails, IDS únicos, análise de engajamento, entre outros.
 
 # Redes sociais
 
-* [Instagram](#osint-no-instagram)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-000?style=flat-square&logo=Instagram&logoColor=red&link=LINK_GIT)](#osint-no-instagram)
 
 ### OSINT no instagram
 
