@@ -4,7 +4,7 @@
 
 # ℹ️ Detalhes do projeto
 
-Essas ferramentas e metodos servirão para coletar dados de contas nas principais redes sociais tais como: localizações, E-mails, IDS únicos, análise de engajamento, entre outros.
+Essas ferramentas servirão para coletar dados de contas nas principais redes sociais tais como: localizações, E-mails, IDS únicos, análise de engajamento, entre outros.
 
 # Redes sociais
 
